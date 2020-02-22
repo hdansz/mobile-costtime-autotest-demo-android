@@ -1,0 +1,3 @@
+2020-01-07 16:36:28,925 - TestMym - DEBUG - 连接设备
+[D 200107 16:36:32 __init__:692] restart-uiautomator since "healthcheck"
+2020-01-07 16:36:32,617 - TestMym - DEBUG - 启动APP

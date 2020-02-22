@@ -1,0 +1,110 @@
+{
+  "uid" : "d2f8a931b8df725f",
+  "name" : "TestPhm.test_clear",
+  "fullName" : "test_automator2_pyt.TestPhm.test_clear",
+  "historyId" : "77226c6c33851929cc5eb6884ff86f18",
+  "time" : {
+    "start" : 1578047016395,
+    "stop" : 1578047024639,
+    "duration" : 8244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "清理缓存",
+      "time" : {
+        "start" : 1578047019201,
+        "stop" : 1578047024637,
+        "duration" : 5436
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5b9777d77cb7411a",
+      "name" : "Captured stderr setup",
+      "source" : "5b9777d77cb7411a.txt",
+      "type" : "text/plain",
+      "size" : 123
+    }, {
+      "uid" : "6524b3562a8696bb",
+      "name" : "Captured log setup",
+      "source" : "6524b3562a8696bb.txt",
+      "type" : "text/plain",
+      "size" : 114
+    }, {
+      "uid" : "3b3dd679f0d925fe",
+      "name" : "Captured stderr call",
+      "source" : "3b3dd679f0d925fe.txt",
+      "type" : "text/plain",
+      "size" : 183
+    }, {
+      "uid" : "22914c8724c2e945",
+      "name" : "Captured log call",
+      "source" : "22914c8724c2e945.txt",
+      "type" : "text/plain",
+      "size" : 170
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-79JGJ1M"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13628-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_automator2_pyt"
+  }, {
+    "name" : "testClass",
+    "value" : "test_automator2_pyt"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestPhm.test_clear"
+  }, {
+    "name" : "package",
+    "value" : "test_automator2_pyt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2f8a931b8df725f.json",
+  "parameterValues" : [ ]
+}

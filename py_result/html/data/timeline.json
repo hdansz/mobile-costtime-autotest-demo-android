@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-79JGJ1M",
+    "children" : [ {
+      "name" : "13628-MainThread",
+      "children" : [ {
+        "name" : "TestPhm.test_clear",
+        "uid" : "d2f8a931b8df725f",
+        "parentUid" : "f934456d53397ee92c31ca045e5259d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1578047016395,
+          "stop" : 1578047024639,
+          "duration" : 8244
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f934456d53397ee92c31ca045e5259d9"
+    } ],
+    "uid" : "0aaf1f385cbd26b20251831914481bc6"
+  } ]
+}

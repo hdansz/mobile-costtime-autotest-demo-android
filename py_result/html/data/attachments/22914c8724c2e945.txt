@@ -1,0 +1,3 @@
+test_automator2_pyt.py      54 DEBUG    点击清理缓存
+test_automator2_pyt.py      57 DEBUG    点击一键清理
+test_automator2_pyt.py      62 DEBUG    清理完成

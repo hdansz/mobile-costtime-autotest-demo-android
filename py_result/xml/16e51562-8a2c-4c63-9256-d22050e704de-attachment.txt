@@ -1,0 +1,3 @@
+2020-01-06 15:47:19,788 - TestPhm - DEBUG - 连接设备
+[D 200106 15:47:23 __init__:692] restart-uiautomator since "healthcheck"
+2020-01-06 15:47:23,547 - TestPhm - DEBUG - 启动APP

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 03 18:23:36 CST 2020","Fri Jan 03 18:23:44 CST 2020","8244","","test_automator2_pyt","","test_automator2_pyt","TestPhm.test_clear","TestPhm.test_clear",""

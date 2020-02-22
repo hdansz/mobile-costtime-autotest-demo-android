@@ -1,0 +1,29 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578296839786" stop="1578296856858">
+  <name>test_automator2_suishouji</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1578296839786" status="passed" stop="1578296856858">
+      <name>TestMym.test_invest</name>
+      <attachments>
+        <attachment source="16e51562-8a2c-4c63-9256-d22050e704de-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="02014dda-b3aa-4bcb-927a-ea92ec5ed280-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="a5e7a5cb-9ad8-427f-ab2e-8d29887ce3c4-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13956-MainThread"/>
+        <label name="host" value="DESKTOP-79JGJ1M"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1578296847215" status="passed" stop="1578296856857">
+          <name>投资</name>
+          <title>投资</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
