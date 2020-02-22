@@ -1,2 +1,0 @@
-test_automator2_pyt.py      43 DEBUG    连接设备
-test_automator2_pyt.py      47 DEBUG    启动手机管家APP

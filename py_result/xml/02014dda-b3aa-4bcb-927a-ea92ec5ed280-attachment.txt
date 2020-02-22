@@ -1,2 +1,0 @@
-test_automator2_suishouji.py   46 DEBUG    连接设备
-test_automator2_suishouji.py   51 DEBUG    启动APP
