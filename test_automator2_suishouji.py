@@ -1,7 +1,7 @@
 #encoding utf-8
 import uiautomator2 as u2
 from time import sleep
-from uiautomator2.ext.htmlreport import HTMLReport
+#from uiautomator2.ext.htmlreport import HTMLReport
 import pytest
 import allure
 import os
@@ -137,17 +137,17 @@ class TestMym():
         self.d.app_stop("com.mymoney")
         pass
 
-if __name__ == '__main__':
-    '''
-    cmd生成HTML报告
-    allure generate <xml路径> -o <html路径> --clean
-    cmd查看HTML报告
-    allure open -h 127.0.0.1 -p 8083 <html路径>
-    xml、html的报告路径
-    '''
-    path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    file_result = path + "/py_result/xml"
-    file_report=path+"/py_result/html"
-    pytest.main(['-s', '-q', '--alluredir', file_result])
+# if __name__ == '__main__':
+#     '''
+#     cmd生成HTML报告
+#     allure generate <xml路径> -o <html路径> --clean
+#     cmd查看HTML报告
+#     allure open -h 127.0.0.1 -p 8083 <html路径>
+#     xml、html的报告路径
+#     '''
+#     path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+#     file_result = path + "/py_result/xml"
+#     file_report=path+"/py_result/html"
+#     pytest.main(['-s', '-q', '--alluredir', file_result])
 
 
